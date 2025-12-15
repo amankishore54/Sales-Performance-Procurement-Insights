@@ -50,3 +50,6 @@ How to Run the Project
 3. Refresh all data sources.
 4. Use the homepage navigation to explore the dashboards.
 
+Report Web Link - https://app.powerbi.com/view?r=eyJrIjoiMTI4MWNhYmMtYzEwNC00ZDMzLTg4ZjctOTIwZmNlM2NiMjkzIiwidCI6IjhlMWMyZWYzLTQzYzgtNDQ5ZC05Nzc5LTJkOGE5MjE1YzkwMyJ9
+
+
